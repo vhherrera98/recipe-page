@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-   <a href="https://vhherrera-not-found-404.netlify.app">
+   <a href="https://vhherrera-recipe-page.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/vhherrera98/404-not-found">
+    <a href="https://github.com/vhherrera98/recipe-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
